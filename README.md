@@ -1,6 +1,6 @@
 # bibliofind
 
-A new Flutter project.
+"A book marketplace app designed for students and book enthusiasts."
 
 ## Getting Started
 
